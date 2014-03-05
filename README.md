@@ -5,18 +5,18 @@ Here are some CSS hacks you can use without having to use Javascript to change S
 
 # Heart Like Icon #
 ## display heart like icon & text inline
-	```css
-	.sqs-simple-like.clicked .like-icon, .sqs-simple-like:hover .like-icon {
-		display: inline-block;
-	}
-	```
+```css
+.sqs-simple-like.clicked .like-icon, .sqs-simple-like:hover .like-icon {
+	display: inline-block;
+}
+```
 
 ## change the hover & clicked color of heart like icon
-	```css
-	.sqs-simple-like.clicked .like-icon, .sqs-simple-like:hover .like-icon {
-		background-color: #000;
-	}
-	```
+```css
+.sqs-simple-like.clicked .like-icon, .sqs-simple-like:hover .like-icon {
+	background-color: #000;
+}
+```
 
 Feel free to contribute!
 
