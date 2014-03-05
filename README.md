@@ -23,4 +23,4 @@ Feel free to contribute!
 Credits
 ========
 
-Created by Rebecca Garcia ([@geekgirlweb](http://twitter.com/geekgirlweb))I'm a Developer Evangelist at [Squarespace](http://squarespace.com) :)
+Created by Rebecca Garcia ([@geekgirlweb](http://twitter.com/geekgirlweb)) I'm a Developer Evangelist at [Squarespace](http://squarespace.com) :)
