@@ -9,7 +9,7 @@ squarespace-css-snippets
 }
 ```
 
-## change the hober & clicked color of heart like icon
+## change the hover & clicked color of heart like icon
 ```css
 .sqs-simple-like.clicked .like-icon, .sqs-simple-like:hover .like-icon {
 	background-color: #000;
