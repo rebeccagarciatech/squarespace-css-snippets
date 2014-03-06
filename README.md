@@ -20,7 +20,7 @@ Here are some CSS hacks you can use without having to use Javascript to change S
 
 ## hide required asterisk ##
 ```css
-.required {
+.required span {
 	display: none;
 }
 ```
