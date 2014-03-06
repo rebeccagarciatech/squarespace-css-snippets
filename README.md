@@ -3,7 +3,7 @@ Squarespace CSS Snippets
 Here are some CSS hacks you can use without having to use Javascript to change Squarespace elements.
 
 
-## Heart Like Icon 
+## Heart 'Like' Icon 
 ### display heart like icon & text inline
 ```css
 .sqs-simple-like.clicked .like-icon, .sqs-simple-like:hover .like-icon {
@@ -36,7 +36,7 @@ Here are some CSS hacks you can use without having to use Javascript to change S
 
 ### change blog RSS text
 ```css
-	.social-rss { 
+.social-rss { 
 }
 ```
 
