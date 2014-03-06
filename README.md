@@ -18,10 +18,17 @@ Here are some CSS hacks you can use without having to use Javascript to change S
 }
 ```
 
-## hide required asterisk ##
+## hide required asterisk
 ```css
 .required span {
 	display: none;
+}
+```
+
+## change form input text
+```css
+.form-wrapper .field-list .field .field-element {
+
 }
 ```
 
