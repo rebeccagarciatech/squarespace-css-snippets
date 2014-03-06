@@ -32,6 +32,12 @@ Here are some CSS hacks you can use without having to use Javascript to change S
 }
 ```
 
+## change blog RSS text
+```css
+	.social-rss { 
+}
+```
+
 Feel free to contribute!
 
 Credits
