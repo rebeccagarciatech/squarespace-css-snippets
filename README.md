@@ -50,6 +50,7 @@ color: #000;
 color: #000;
 }
 ```
+source: http://answers.squarespace.com/questions/48393/how-do-i-change-the-font-color-of-the-date-on-my-blog-page
 
 Feel free to contribute!
 
