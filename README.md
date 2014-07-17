@@ -40,6 +40,18 @@ Here are some CSS hacks you can use without having to use Javascript to change S
 }
 ```
 
+## Newsletter
+
+### lengthen form fields in newsletter block
+```css
+.newsletter-block .newsletter-form-field-element {
+width: 240px;
+}
+```
+source: http://answers.squarespace.com/questions/48176/how-do-you-lengthen-the-email-address-field-in-a-newsletter-block?page=1#48182
+
+## Blog
+
 ### change font color of date on blog page
 ```css
 time.published a:link {
