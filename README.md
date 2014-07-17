@@ -40,6 +40,17 @@ Here are some CSS hacks you can use without having to use Javascript to change S
 }
 ```
 
+### change font color of date on blog page
+```css
+time.published a:link {
+color: #000;
+}
+
+.entry-footer a, .entry-footer .sqs-simple-like, .entry-footer .squarespace-social-buttons {
+color: #000;
+}
+```
+
 Feel free to contribute!
 
 Credits
