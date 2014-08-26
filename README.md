@@ -18,6 +18,17 @@ Here are some CSS hacks you can use without having to use Javascript to change S
 }
 ```
 
+## Navigation
+### Hide site navigation in Momentum
+```html
+<style>
+header#header {
+display: none;
+}
+</style>
+```
+source: http://answers.squarespace.com/questions/51860/removing-site-navigation-in-momentum/51914
+
 ## Forms
 
 ### hide required asterisk
