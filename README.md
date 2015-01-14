@@ -75,6 +75,19 @@ time.published a:link {
 ```
 source: http://answers.squarespace.com/questions/48393/how-do-i-change-the-font-color-of-the-date-on-my-blog-page
 
+### change size of tag cloud 
+```css
+.tagcloud-block .name {font-size: 70% !important;
+}
+```
+
+### change color of tag cloud
+```css
+.tagcloud-block .name {color: blue !important;
+}
+```
+source: http://answers.squarespace.com/questions/47640/how-do-i-change-the-text-size-in-a-tag-cloud
+
 Feel free to contribute!
 
 Credits
