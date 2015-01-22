@@ -18,6 +18,12 @@ Here are some CSS hacks you can use without having to use Javascript to change S
 }
 ```
 
+## Header
+### Hide site title
+```css
+.site-title { display:none; }
+```
+
 ## Navigation
 ### Hide site navigation in Momentum
 ```html
