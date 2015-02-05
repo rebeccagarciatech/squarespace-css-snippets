@@ -35,6 +35,20 @@ display: none;
 ```
 source: http://answers.squarespace.com/questions/51860/removing-site-navigation-in-momentum/51914
 
+### Replace Bedford mobile hamburger icon with Menu text
+```css
+.mobile-nav-toggle-label {
+  margin-right:10px !important;
+}
+
+.force-mobile-nav .mobile-nav-toggle-label::after {
+  display: inline;
+  content: 'Menu';
+}
+.top-bar, .middle-bar, .bottom-bar {display:none;}
+```
+source: http://answers.squarespace.com/questions/35704/how-can-i-replace-the-hamburger-icon-in-bedford-with-the-word-menu/66334
+
 ## Forms
 
 ### hide required asterisk
