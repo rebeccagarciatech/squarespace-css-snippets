@@ -108,6 +108,17 @@ source: http://answers.squarespace.com/questions/48393/how-do-i-change-the-font-
 ```
 source: http://answers.squarespace.com/questions/47640/how-do-i-change-the-text-size-in-a-tag-cloud
 
+## Commerce
+
+## display currency name 'USD' in price
+````css
+.sqs-money-native:after {
+content: 'USD' !important;
+}
+````
+
+source: http://answers.squarespace.com/questions/48077/displaying-the-currency-name-usd-in-price
+
 Feel free to contribute!
 
 Credits
